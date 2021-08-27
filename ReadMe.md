@@ -12,14 +12,17 @@ Win10Mobile Connector and "lite" Portal mode realized.
 It runs on as #UWP app now... but win32 port planned (system tray support, etc.)!
 
 
+
 #Project type 
 
 sample (as "template" for dev other projects)
 
 
-Languages
+
+#Languages
 
 C# (csharp)
+
 
 
 #Used products (platforms):
@@ -27,7 +30,8 @@ C# (csharp)
 UWP (build 15063)
 
 
-# More tech details about Cat Clock's architecture
+
+#More tech details about Cat Clock's architecture
 
 DeviceManager - a class library for UWP developers to control users'
 device with advanced operation including shutdown, 
