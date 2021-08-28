@@ -31,17 +31,16 @@ UWP (build 15063)
 
 
 
-#More tech details about Cat Clock's architecture
+#More tech details (architecture)
 
-DeviceManager - a class library for UWP developers to control users'
-device with advanced operation including shutdown, 
-restart, 
-GPU usage monitoring, 
-APPX/XAP deployment, 
-etc.
+DeviceManager is a main part of WMDevMan. It is a class library for UWP developers to control 
+users' device with advanced operation including shutdown, restart, GPU usage monitoring, 
+APPX/XAP deployment, etc. I't useful thing for some debuging, IMHO
 
 
 #Screenshots
+
+![Local connect](Screenshots/sshot0.png "Local connect (on-board)")
 
 ![Remote connect](Screenshots/sshot1.png "Remote connect")
 
